@@ -2,5 +2,9 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+myenv/
 .env
 key.txt
+.ledger_state_*.json
+.ledger_state_*.json.events.jsonl
+.practice_feedback.jsonl
